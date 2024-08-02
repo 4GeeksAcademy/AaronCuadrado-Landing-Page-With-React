@@ -1,19 +1,19 @@
 import React from "react";
 
 const jumbotronStyle = {
-    backgroundColor: '#F8F9FA', // Fondo gris claro para contraste
-    color: '#333333', // Color de texto oscuro para buen contraste
-    padding: '80px 0', // Espaciado generoso para el contenido
-    marginBottom: '30px', // Margen para separar del contenido siguiente
-    borderRadius: '10px', // Bordes redondeados para un diseño más moderno
+    backgroundColor: '#F8F9FA', 
+    color: '#333333', 
+    padding: '80px 0', 
+    marginBottom: '30px', 
+    borderRadius: '10px', 
     textAlign: 'center',
-    boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)', // Sombra sutil para destacar
+    boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)',
 };
 
 const jumbotronTitleStyle = {
     fontSize: '3rem',
     fontWeight: 'bold',
-    color: '#CD212A', // Rojo italiano para el título
+    color: '#CD212A', 
 };
 
 const jumbotronTextStyle = {
@@ -22,7 +22,7 @@ const jumbotronTextStyle = {
 };
 
 const jumbotronButtonStyle = {
-    backgroundColor: '#008C8C', // Verde italiano para el botón
+    backgroundColor: '#008C8C', 
     borderColor: '#008C8C',
     padding: '10px 20px',
     fontSize: '1rem',
@@ -34,7 +34,7 @@ const jumbotronButtonStyle = {
 };
 
 const jumbotronButtonHoverStyle = {
-    backgroundColor: '#005C5C', // Verde más oscuro para el hover
+    backgroundColor: '#005C5C', 
     borderColor: '#005C5C',
 };
 

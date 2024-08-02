@@ -6,7 +6,7 @@ const cardStyle = {
     overflow: 'hidden',
     boxShadow: '0 4px 8px rgba(0, 0, 0, 0.2)',
     transition: 'transform 0.3s ease, box-shadow 0.3s ease',
-    backgroundColor: '#FFFFFF', // Fondo blanco para las tarjetas
+    backgroundColor: '#FFFFFF', 
 };
 
 const cardImgStyle = {
@@ -16,11 +16,11 @@ const cardImgStyle = {
 
 const cardBodyStyle = {
     padding: '20px',
-    backgroundColor: '#F9F9F9', // Fondo ligeramente gris para el cuerpo
+    backgroundColor: '#F9F9F9', 
 };
 
 const cardTitleStyle = {
-    color: '#008C8C', // Color verde italiano para los títulos
+    color: '#008C8C', 
     fontWeight: '600',
     marginBottom: '10px',
 };

@@ -1,25 +1,25 @@
 import React from "react";
 
 const navbarStyle = {
-    background: 'linear-gradient(to right, #008C8C, #FFFFFF, #CD212A)', // Gradiente tricolor bandera italiana
+    background: 'linear-gradient(to right, #008C8C, #FFFFFF, #CD212A)', 
     
 };
 
 const logoStyle = {
-    height: '40px', // Tamaño del logo ajustado
-    marginRight: '15px', // Espacio a la derecha del logo
+    height: '40px', 
+    marginRight: '15px', 
 };
 
 const navLinkStyle = {
-    color: '#FFFFFF', // Color del texto de los enlaces
-    margin: '0 10px', // Espacio horizontal entre enlaces
-    fontWeight: '500', // Peso de la fuente
-    fontSize: '16px', // Tamaño de fuente
-    transition: 'color 0.3s ease', // Transición suave para el color
+    color: '#FFFFFF', 
+    margin: '0 10px', 
+    fontWeight: '500', 
+    fontSize: '16px', 
+    transition: 'color 0.3s ease', 
 };
 
 const navLinkHoverStyle = {
-    color: '#CD212A', // Color al pasar el ratón sobre el enlace
+    color: '#CD212A', 
 };
 
 const Navbar = () => {
